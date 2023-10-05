@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-*main - A program that prints a line with puts functio
-* 
-*Return: 0 (Succes)
+* main-A program that prints a line with puts functin
+* Return:0(Succes)
 */
 int main(void)
 {
