@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
-* main - This is a description
-* Return : 0 (Succes)
+* main-A program that prints a line with puts functin
+* Return:0(Succes)
 */
 int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle");
-    return (0);
+/* here is my fucking function */
+puts("\"Programming is like building a multilingual puzzle");
+return (0);
 }
