@@ -2,7 +2,7 @@
 /**
 * print_nine_times_table - Prints the 9 times table starting with 0.
 */
-void print_nine_times_table(void)
+void times_table(void)
 {
 int i, j, result;
 for (i = 0; i <= 9; i++)
